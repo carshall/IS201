@@ -21,3 +21,29 @@ li a {
 li a:hover {
   background-color: #111;
 }
+
+.caption {
+  text-align: center;
+}
+
+.dash-column{
+    display: inline-grid;
+    width: 50%;
+    float: left;
+  }
+.dash-item {
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #4AA2D9;
+    color: #FFFFFF;
+    border: 2px solid #000000;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.footer {
+  text-align: center;
+  padding: 5px;
+  background-color: aliceblue;
+  color: black;
+}

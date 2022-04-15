@@ -1,4 +1,4 @@
-body {
+.alice-blue {
   background-color: aliceblue;
 }
 
@@ -12,4 +12,26 @@ h5 {
 
 .em-text {
   font-style: italic;
+}
+
+.anchor {
+  text-decoration: underline;
+  justify-content: center;
+  text-align: center;
+}
+
+.col-img {
+  width: 400px;
+}
+
+.section-container {
+  align-items: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.dash-item {
+  width: 50%;
 }
