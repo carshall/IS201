@@ -1,3 +1,15 @@
 body {
   background-color: aliceblue;
 }
+
+.ol-item {
+  font-weight: bold;
+}
+
+h5 {
+  font-family: sans-serif;
+}
+
+.em-text {
+  font-style: italic;
+}
