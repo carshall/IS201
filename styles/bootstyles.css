@@ -39,6 +39,7 @@ li a:hover {
     border: 2px solid #000000;
     font-size: 30px;
     font-weight: bold;
+    height: 700px;
 }
 
 .footer {
@@ -46,4 +47,8 @@ li a:hover {
   padding: 5px;
   background-color: aliceblue;
   color: black;
+}
+
+.break {
+  width: 100%;
 }
